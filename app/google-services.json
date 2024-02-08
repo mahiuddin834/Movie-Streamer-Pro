@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359728479334",
+    "project_id": "streamer-pro-84485",
+    "storage_bucket": "streamer-pro-84485.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359728479334:android:b0a54615172410862081a7",
+        "android_client_info": {
+          "package_name": "com.itnation.streamerpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClbzUgsSm6CO9yYvk9pTujWRMJNV9GZII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
